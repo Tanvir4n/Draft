@@ -30,3 +30,4 @@ Summary
 • Decrypting: To decrypt, the same key and cipher would be used with the decrypt method.
 This ensures that the log data is securely encrypted and can only be decrypted by someone with the correct key, providing confidentiality and integrity.
 '''
+
