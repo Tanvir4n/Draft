@@ -1,7 +1,7 @@
 CREATE TABLE students(
     Roll int(5),
     Name varchar(20),
-    Gander varchar(10),
+    Gender varchar(10),
     Age int(5),
     GPA double(3,2),
     City varchar(15),
